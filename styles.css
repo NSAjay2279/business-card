@@ -14,9 +14,9 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #7f95d1;
+    background: #FFFFFF;
     color: #FFC0BE;
-    border-bottom: 6px solid #FF82A9;
+    border-bottom: 6px solid #60B0C0;
 }
 
 .border-blue {
